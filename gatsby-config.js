@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Pedro Souza - Fullstack Developer',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Sou um fullstack developer que trabalha na maior parte do tempo com ruby e javascript e todo seu ecossistema desde o planejamento do software ate a publicacao',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
